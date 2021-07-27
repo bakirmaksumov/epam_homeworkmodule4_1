@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemFinder", "FileSystemFinder\FileSystemFinder.csproj", "{8E10DC4B-4F1E-47BA-A017-F51FBB9FBA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemFinder.Test", "FileSystemFinder.Test\FileSystemFinder.Test.csproj", "{544B8651-5394-47FB-8B53-9C30FEDD01DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E10DC4B-4F1E-47BA-A017-F51FBB9FBA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E10DC4B-4F1E-47BA-A017-F51FBB9FBA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E10DC4B-4F1E-47BA-A017-F51FBB9FBA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E10DC4B-4F1E-47BA-A017-F51FBB9FBA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544B8651-5394-47FB-8B53-9C30FEDD01DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544B8651-5394-47FB-8B53-9C30FEDD01DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544B8651-5394-47FB-8B53-9C30FEDD01DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544B8651-5394-47FB-8B53-9C30FEDD01DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {900A363F-9F49-4572-8685-2002FE17E792}
+	EndGlobalSection
+EndGlobal

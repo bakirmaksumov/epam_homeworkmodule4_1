@@ -1,0 +1,10 @@
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\bin\Debug\FileSystemFinder.exe.config
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\bin\Debug\FileSystemFinder.exe
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\bin\Debug\FileSystemFinder.pdb
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.csproj.AssemblyReference.cache
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.Form1.resources
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.Properties.Resources.resources
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.csproj.GenerateResource.cache
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.csproj.CoreCompileInputs.cache
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.exe
+C:\Users\MrFree\Desktop\epam\taskModule#4\epam_homeworkmodule4_1\FileSystemFinder\FileSystemFinder\obj\Debug\FileSystemFinder.pdb
